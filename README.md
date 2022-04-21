@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheGlink
-- 👀 I’m interested in gaming, AI and Computing Haardware
+- 👀 I’m interested in gaming, AI and Computing Hardware
 - 🌱 I’m currently learning HTML, CSS, Javascript. only in the beginning phase so far. I know basic C++ and Java aswell.
 - 💞️ I’m looking to collaborate on Anything and everything that will help me progress, 
 - 📫 How to reach me: Discord: Glinko#8179
