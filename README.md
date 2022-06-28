@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheGlink
-- 👀 I’m interested in gaming, AI and Computing Hardware
-- 🌱 I’m currently learning HTML, CSS, Javascript. only in the beginning phase so far. I know basic C++ and Java aswell.
-- 💞️ I’m looking to collaborate on Anything and everything that will help me progress, 
+- 👀 I’m interested in Machine Learning, Data Engineering and all things Data
+- 🌱 I’m currently learning Python, I have created a computer vision project and a webscraper. I have also studied C++ and have a fairly basic understanding of HTML, CSS and Java.
+- 💞️ I’m looking to collaborate on Anything and everything that will help me progress. Mainly python, but I would love C++ if someone could teach me more in-depth about the caviats of memory managment  
 - 📫 How to reach me: Discord: Glinko#8179
 
 <!---
